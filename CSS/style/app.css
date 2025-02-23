@@ -1,0 +1,101 @@
+body {
+     background: linear-gradient(#003cff 0%, rgb(255, 255, 255) 40%, #ffffff 100%);
+}
+
+.foto {
+    height: 300px;
+    width: 300px;
+}
+.biodata {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 120px;
+}
+
+.biodata h2 {
+    transform: translateY(20px);
+}
+
+.biodata h5 {
+    transform: translateY(10px);
+}
+
+.profile {
+    padding-bottom: 700px;
+    transform: translateY(-50px);
+    background: linear-gradient(#ffffff 0%, #003cff 40%, #ffffff 100%);
+}
+.profile h2 {
+    transform: translateY(200px);
+}
+
+.profile div {
+    transform: translateY(70px);
+    text-align: justify;
+}
+
+.riwayat h2 {
+    transform: translateY(-400px);
+}
+
+.riwayat {
+    transform: translateY(0px);
+    text-align: center;
+}
+
+.riwayat div {
+    transform: translateY(-120px);
+}
+
+.riwayat p {
+    transform: translateY(130px);
+}
+
+.pengalaman h2 {
+    transform: translateY(-150px);
+}
+
+.pengalaman {
+    background: linear-gradient(#ffffff 0%,     #003cff 40%, #ffffff 100%);
+    padding-bottom: 700px;
+}
+
+.pengalaman div {
+    transform: translateY(-30px);
+}
+
+.pengalaman p {
+    transform: translateY(30px);
+}
+
+.pengalaman h5 {
+    transform: translateY(30px);
+}
+
+.skill h2 {
+    transform: translateY(-550px);
+}
+
+.skill div {
+    transform: translateY(-120px);
+}
+
+.skill h5 {
+    transform: translateY(120px);
+    text-align: center;
+}
+
+.skill p {
+    transform: translateY(120px);
+}
+
+.kontak {
+    transform: translateY(-190px);
+}
+.kontak a {
+    font-size: 35px;
+    color: rgb(0, 0, 0);
+}
+
